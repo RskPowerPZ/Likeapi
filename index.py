@@ -1,1 +1,1 @@
-from wsgi import main
+from wsgi import app
